@@ -1,0 +1,30 @@
+/*---------------------------------------*/
+/*--- Magazine Related pages Styling---- */
+/*---------------------------------------*/
+
+.is-magazine-page {
+  background-color: $primary-color;
+
+  nav ul {
+
+      color: $text-color_light;
+    }
+
+
+  .logo{
+    color: $text-color_light;
+
+  }
+
+  .hamburger-inner {
+    &, &::before, &::after {
+      background-color: $text-color_light
+    }
+  }
+
+  h2{
+    color: $text-color_light;
+  }
+
+  @include navbar($text-color_light);
+}

@@ -1,0 +1,14 @@
+/*-----------------------------------------*/
+/*--- Newsletter Related pages Styling---- */
+/*-----------------------------------------*/
+
+.is-white-page {
+  background-color: $background-color;
+
+  @include signup($primary-color);
+
+    h2{
+      color: $text-color_dark
+    }
+
+}

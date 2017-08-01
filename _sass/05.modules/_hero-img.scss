@@ -1,0 +1,18 @@
+/*------------------------*/
+/*------Hero Image--------*/
+/*------------------------*/
+
+/* Styles the hero image for articles and posts. This is the image at the top of the page*/
+
+.hero {
+  &__container{
+
+  }
+
+  &__image{
+    width: 100vw;
+    max-width: 1700px;
+    height: 100%;
+    margin: auto;
+  }
+}

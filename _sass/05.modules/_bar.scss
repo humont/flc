@@ -1,0 +1,40 @@
+/*-----------------------------*/
+/*------Top bar Styling--------*/
+/*-----------------------------*/
+
+
+.nav {
+
+  position: -webkit-sticky;
+  top:0;
+  width: 100vw;
+  justify-content: space-between;
+  background-color: $background-color;
+  align-items: center;
+  z-index: 10;
+
+  &__menu{
+    display: flex;
+
+    ul{
+    display: flex;
+    flex-direction: row;
+    font-family: $header-fonts;
+    margin: auto;
+
+      .menu__item{
+        display: flex;
+        justify-content: space-around;
+
+        a{
+        text-decoration: none;
+        margin: auto;
+
+          &:hover{
+            text-decoration: underline;
+          }
+        }
+      }
+    }
+  }
+}

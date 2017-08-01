@@ -1,0 +1,54 @@
+/*--------------------*/
+/*----- Sign up-------*/
+/*--------------------*/
+
+#mc_embed_signup {
+  form {
+    padding: 0;
+    background: none;
+    border: none;
+    position: relative;
+  }
+
+  .mc-field-group {
+    width: 100%;
+    display: flex;
+
+    input[type=email], input[type=submit] {
+      /* reset border radius */
+      border-radius: 0;
+
+      border-bottom-right-radius: 2px;
+      border-top-right-radius: 2px;
+    }
+
+    input[type=email] {
+      flex-grow: 1;
+      background-color: $background-color;
+      color: $text-color_dark_disabled;
+      margin: 0;
+      z-index: 1;
+      border-bottom-left-radius: 2px;
+      border-top-left-radius: 2px;
+    }
+
+    input[type=email]:focus {
+      color: $text-color_dark;
+    }
+
+    input[type=submit] {
+      cursor: pointer;
+      height: 100%;
+      position: absolute;
+      top:0;
+      right: 0;
+      width: 5rem;
+      margin: 0;
+      z-index: 2;
+      text-align: center;
+      vertical-align: middle;
+      padding: 0;
+    }
+  }
+
+}

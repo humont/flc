@@ -1,0 +1,28 @@
+---
+layout: default
+group: issue
+image:
+article:
+- title: ''
+  author: ''
+  wordcount: ''
+---
+
+<h2>{{ page.title }}</h2>
+<div>{{ page.date }}</div>
+<div class="">
+  {{page.image}}
+</div>
+<div class="">
+  {% for article in page.article %}
+  <div class="point-explanation molecule">
+    <div class="atom">{{ article.title }}</div>
+    <div class="atom">{{ article.author }}</div>
+  </div>
+  {% endfor%}
+</div>
+
+
+
+test
+{{ content }}

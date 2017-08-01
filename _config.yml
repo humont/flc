@@ -1,0 +1,37 @@
+---
+title: Fit Letter Club
+timezone: UTC
+collections:
+  issues:
+    title: Issues
+    output: true
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: _posts
+    type: posts
+  values:
+    group: blog
+    layout: post
+email: your-email@domain.com
+description: Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for Google search
+  results) and in your feed.xml site description.
+baseurl: 
+url: 
+twitter_username: AKIAJETMW6GX3P7FYC5A
+github_username: jekyll
+markdown: kramdown
+sass:
+  style: compressed
+theme: 
+gems:
+- jekyll-feed
+exclude:
+- Gemfile
+- Gemfile.lock

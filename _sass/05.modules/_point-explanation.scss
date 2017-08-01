@@ -1,0 +1,12 @@
+/*-----------------------*/
+/*-- Point-Explanation --*/
+/*-----------------------*/
+
+.point-explanation {
+  display: flex;
+  flex-direction: column;
+
+  div:first-child {
+    font-weight: normal;
+  }
+}
