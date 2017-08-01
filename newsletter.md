@@ -1,8 +1,9 @@
 ---
 title: Newsletter
-layout: page
+published: false
 group: newsletter
 about: Curated fitness content around the web
+layout: page
 ---
 
 <section class=" is-newsletter-page">
