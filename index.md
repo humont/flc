@@ -2,6 +2,7 @@
 title: FLC
 group: white
 about: FLC is coming soon - Sign up now!
+layout: default
 ---
 
 {% include head.html %}
