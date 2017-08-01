@@ -1,7 +1,8 @@
 ---
 title: index
-layout: default
+published: false
 group: white
+layout: default
 ---
 
 <!-- Frontpage: About -->
