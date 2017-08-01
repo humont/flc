@@ -1,9 +1,10 @@
 ---
 title: blog
-layout: page
+published: false
 group: blog
 about: The Magazine presents the content, but sometimes, it's nice to see how it all
   gets put together and what goes on in our heads
+layout: page
 ---
 
 <!-- Blog Posts -->
