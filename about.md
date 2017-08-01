@@ -1,8 +1,9 @@
 ---
 title: About
-layout: page
+published: false
 group: white
 about: 
+layout: page
 ---
 
 <section class="">
