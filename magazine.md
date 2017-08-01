@@ -1,9 +1,10 @@
 ---
 title: magazine
-layout: page
+published: false
 group: magazine
 about: A quarterly indepth exploration of health and fitness, with thought provoking
   interviews and long form articles
+layout: page
 ---
 
 <!-- Magazine Issues -->
