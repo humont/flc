@@ -2,7 +2,7 @@
 title: About
 layout: page
 group: white
-about:
+about: 
 ---
 
 <section class="">
