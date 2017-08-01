@@ -26,26 +26,14 @@ layout: default
       <div class="row">
         <div class="col mh-auto l2of3 pr3_m">
           <div class=" mv-auto">
-            <p class="l fw4 ">Reading a magazine should be an opportunity to learn something new, an opportunity to develop your passions.</p>
-            <p class="l pb3">We'd like to present to you the FLC - A quarterly health and fitness magazine.</p>
+            <p class="l fw4 ">Reading should be an opportunity to learn something new, an opportunity to develop your interest and passions.</p>
+            <p class="l pb3">We'd like to present to you the FLC - Fit Letter Club - A quarterly health and fitness <b>magazine</b> and a <b>weekly newsletter</b></p>
         <div class="row bb bt bw1 mb4">
-          <p class="row l">Each issue will focus on one topic, and contain:</p>
+          <p class="row l">Each week, we'll send you a curated newsletter straight to your inbox</p>
+          <p class="row l">You already get a tonne of emails, so we'll restrict it to 3-5 of the most interesitng articles available</p>
+          <p class="row l">We'll include a brief summary on each of the articles, and a few points on how it can improve your personal health and fitness</p>
+          <p class="row l">No clickbait, only articles of the highest calibre</p>
 
-          <div class="col l1of2 pr4 pb4">
-            In depth editorials, laying the ground work for understanding a the issues topic.
-          </div>
-          <div class="col l1of2 pr4 pb4">
-            Interviews with practitioners on how they get the best result in their feild.
-          </div>
-          <div class="col l1of2 pr4 pb4">
-            Targetted fitness/diet/health programs to put into practice the information in the issue
-          </div>
-          <div class="col l1of2 pr4 pb4">
-            and all of the extras: cool accessories, specialist gym reviews, Athlete insights, and more!
-          </div>
-          <div class="col l1of2 pr4 pb3">
-            Beautiful illustrations
-          </div>
         </div>
           </div>
           <div class="signup mv-auto">
