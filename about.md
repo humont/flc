@@ -1,6 +1,5 @@
 ---
 title: About
-published: false
 group: white
 about: 
 layout: page
