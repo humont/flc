@@ -47,7 +47,7 @@ layout: default
 
   <section class="pv2 bg_brand-red row">
     <div class=" ph3 pv5 container mh-auto">
-      <div class="xxxl_m xxl light fw8"> <a href="#">The Archive</a></div>
+      <div class="xxxl_m xxl light fw8"> <a class="dim" href="#">The Archive</a></div>
       <div class="l light mh-auto tc">
          of newsletters past (coming soon)
       </div>
