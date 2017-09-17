@@ -29,7 +29,7 @@ layout: default
 
             <p class="l fw4 ">Sign up to the Fit Letter Club, and recieve our weekly Fit Letter.</p>
             {% include signup-form.html %}
-            <div class="row bb bt bw1 mb4 ph6 pv2">
+            <div class="row bb bt bw1 mb4 ph6_l ph3_m ph2 pv2">
               <p class="row l">Each week, you will receive a curated newsletter straight to your inbox.</p>
               <p class="row l">Interesting health and fitness articles with a quick summary and thoguhtful analysis.</p>
               <p class="row l">A selection of interesting, open access studies to get you thinking</p>
@@ -47,7 +47,7 @@ layout: default
 
   <section class="pv2 bg_brand-red row">
     <div class=" ph3 pv5 container mh-auto">
-      <div class="xxxl_m xxl light fw8"> <a class="dim" href="#">The Archive</a></div>
+      <div class="xxxl_m xxl light fw8"> <a class="dimnd" href="#">The Archive</a></div>
       <div class="l light mh-auto tc">
          of newsletters past (coming soon)
       </div>
