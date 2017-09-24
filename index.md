@@ -47,10 +47,7 @@ layout: default
 
   <section class="pv2 bg_brand-red row">
     <div class=" ph3 pv5 container mh-auto">
-      <div class="xxxl_m xxl light fw8"> <a class="dimnd" href="#">The Archive</a></div>
-      <div class="l light mh-auto tc">
-         of newsletters past (coming soon)
-      </div>
+      <div class="xxxl_m xxl light fw8 tc"> <a class="dimnd" href="{{ site.github.url }}/archive.html">The Archive</a></div>
     </div>
   </section>
 
@@ -60,3 +57,4 @@ layout: default
 
 
 </body>
+</html>
