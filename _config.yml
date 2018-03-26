@@ -36,5 +36,4 @@ exclude:
 - Gemfile.lock
 - node_modules
 
-destination: public
 source: src
