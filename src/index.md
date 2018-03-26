@@ -79,9 +79,3 @@ layout: default
   </section>
 
 </main>
-
-
-
-
-</body>
-</html>

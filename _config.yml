@@ -24,8 +24,7 @@ description: Write an awesome description for your new site here. You can edit t
   results) and in your feed.xml site description.
 baseurl: 
 url: 
-twitter_username: AKIAJETMW6GX3P7FYC5A
-github_username: jekyll
+
 markdown: kramdown
 sass:
   style: compressed
@@ -35,3 +34,7 @@ gems:
 exclude:
 - Gemfile
 - Gemfile.lock
+- node_modules
+
+destination: public
+source: src
