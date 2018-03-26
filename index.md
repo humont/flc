@@ -19,16 +19,43 @@ layout: default
       </div>
     </div>
   </section>
+  
+  <section class="pv2 pv4_m row dark">
+    <div class=" ph3 container mh-auto">
+      <div class="row">
+        <div class="ph4 pb3">
+          <h2>FitLetter Plans</h2>
+          <p>Sign up to recieve weekly workouts</p> 
+          <p>Each week builds on the one before, using only proven methods to help you increase your performance</p>
+          <p>The plan functions in cycles, each cycle lasting 4-8 weeks</p>
+        </div>
+        
+        <div class="row  mh-auto">
+          <div class="mh-auto col l1of2 ph4">
+            <div class="ba ph3 pv4 ">
+              <p class="n_s l_m fw8 tc"> 🏋🏽‍♀️ The Base Plan 🏋🏼‍♂️ </p>
+              <p>For those who are competent in the basic movements, and want to focus on getting stronger</p>
+              <p>£12/month</p>
+              <button class="tc" type="button" name="button">Begin</button>
+            </div>
+          </div>
+        </div>
+        </div>
+      </div>
 
-  <section class="pv2 bg_brand-blue row light">
-    <div class=" ph3 pv4_m container mh-auto">
+
+  
+  </section>
+
+  <section class="pv2 pv4_m bg_brand-blue row light">
+    <div class=" ph3  container mh-auto">
 
       <div class="row">
-        <div class="col mh-auto l2of3 pr3_m">
+        <div class="col mh-auto l2of3 ">
           <div class=" mv-auto">
 
-            <p class="l fw4 ">Sign up to the Fit Letter Club, and recieve our weekly Fit Letter.</p>
-            {% include signup-form.html %}
+            <p class="l fw4 ">Sign up to the FitLetter, and recieve our weekly newsletter.</p>
+            {% include fl_signup.html %}
             <div class="row bb bt bw1 mb4 ph6_l ph3_m ph2 pv2">
               <p class="row l">Each week, you will receive a curated newsletter straight to your inbox.</p>
               <p class="row l">Interesting health and fitness articles with a quick summary and thoughtful analysis.</p>

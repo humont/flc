@@ -20,7 +20,7 @@ layout: default
       <div class="row  pv5">
         <div class="col l1of2 mh-auto flex-order_2_m ph4">
           <p>You'll find here a list of newsletters past, If you'd like to subscribe to the newsletter, do so below:</p>
-          {% include signup-form.html %}
+          {% include fl_signup.html %}
 
         </div>
         <div class="col dfc pv3 l1of2 mh-auto ph4">
